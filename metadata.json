@@ -1,0 +1,4 @@
+{
+  "name": "Advanced QA Test-Plan Generator",
+  "description": "An intelligent application that analyzes Product Requirements Documents (PRDs) to identify gaps and automatically generates comprehensive QA test plans, including Markdown tables and Gherkin scenarios, using the Gemini API."
+}
