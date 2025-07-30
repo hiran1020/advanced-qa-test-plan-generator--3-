@@ -7,6 +7,7 @@ An intelligent application that analyzes Product Requirements Documents (PRDs), 
 
 - **PRD, Design, and Video Input:** Upload PRDs, Figma links, images, and videos for holistic analysis.
 - **AI-Powered Analysis:** Uses Gemini API to find logical gaps, UI/UX issues, and accessibility problems.
+- **Enhance PRD and Export as PDF:** Automatically add all missing acceptance criteria, edge cases, and details to your PRD. You can copy the enhanced PRD or download it as a PDF for sharing and documentation.
 - **Test Plan Generation:** Automatically creates detailed test cases in Markdown and Gherkin formats.
 - **Traceability Matrix:** Maps requirements/user stories to test cases for coverage.
 - **QA Documentation:** Generates comprehensive QA docs for sharing and download.
@@ -56,9 +57,10 @@ npm run build
 
 1. **Input PRD, Figma URL, or upload files.**
 2. **Review AI analysis for gaps and ambiguities.**
-3. **Generate and prioritize the test plan.**
-4. **View test cases, Gherkin scenarios, and traceability matrix.**
-5. **Download QA documentation as Markdown.**
+3. **Enhance PRD:** Automatically add all missing acceptance criteria, edge cases, and details to your PRD. You can copy the enhanced PRD or download it as a PDF for sharing and documentation.
+4. **Generate and prioritize the test plan.**
+5. **View test cases, Gherkin scenarios, and traceability matrix.**
+6. **Download QA documentation as Markdown.**
 
 ## Project Structure
 

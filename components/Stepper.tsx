@@ -9,6 +9,7 @@ interface StepperProps {
 const stepConfig = [
   { id: Step.PRD_INPUT, name: 'Input & Upload' },
   { id: Step.ANALYSIS_COMPLETE, name: 'Review Analysis' },
+  { id: Step.ENHANCE_PRD, name: 'Enhance PRD' },
   { id: Step.GENERATING_PLAN, name: 'Generate Plan' },
   { id: Step.PLAN_GENERATED, name: 'View Test Plan' },
   { id: Step.QA_DOCS_GENERATED, name: 'QA Doc' },
